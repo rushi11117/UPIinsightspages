@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ImageNameDexc from './cards/imageNameDexc';
-import image from './upi-report-thumbnail.jpg';
+import image from './resource/upi-report-thumbnail.jpg';
 
 const ReportsComponent = () => {
     const [expandedYear, setExpandedYear] = useState(null);
